@@ -7,7 +7,7 @@ A simple **Tic Tac Toe** Game (X & O) made with **HTML** **CSS** and **JavaScrip
 2. Beautiful Design Made with Pure CSS
 3. Highlights the Winner
 4. Restart Game Button
-5. Pure JavaScript(No libraries)  
+5. Pure JavaScript(No libraries)
 ---
 ## Technologies Used
 1. **HTML5** - Structure Of the Game
